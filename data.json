@@ -1,0 +1,157 @@
+{
+  "collegeCode": "UCEK",
+
+  "college": "University College Of Engineering, Kariavattom ",
+
+  "about": "Welcome to MuLearn UCEK! MuLearn is an online platform and student community committed to empowering students to enhance their skills and thrive as individuals and as a community. Our approach integrates micro peer groups, interest groups, and gamified tasks, encouraging engaging and collaborative learning experiences. MuLearn has been successfully implemented at UCEK, assisting students in honing their skills and facilitating easier access to internships and placements. Join us on a journey of growth and discovery, as we support each other's paths to knowledge and personal development.",
+
+  "events": [
+    {
+      "month": "Apr",
+      "date": "22",
+      "head": "Mediacon",
+      "para": "Kerala's First Meadia & Entertainment Conference",
+      "img": "mulearn-assets/events/mediacon.jpg"
+    },
+    {
+      "month": "Oct",
+      "date": "14",
+      "head": "μClimb",
+      "para": "μClimb organised by MulearnUcek",
+      "img": "mulearn-assets/events/muclimb.jpg"
+    },
+
+    {
+      "month": "Sep",
+      "date": "26",
+      "head": "Mulearn Orientation",
+      "para": "Mulearn orientation and onboarding of students",
+      "img": "https://wallpaperaccess.com/full/1642272.jpg"
+    },
+    {
+      "month": "Sep",
+      "date": "07",
+      "head": "ERROR_418",
+      "para": "24 hour hackathon organised by MulearnUcek", 
+      "img": "mulearn-assets/events/error418.jpg"
+    },
+    {
+      "month": "July",
+      "date": "03",
+      "head": "Introduction to Game Dev",
+      "para": "Organized by MulearnUcek",
+      "img": "mulearn-assets/events/gamedev.jpg"
+    },
+        {
+      "month": "July",
+      "date": "03",
+      "head": "Dev Expo",
+      "para": "Organized by MulearnUcek",
+      "img": "mulearn-assets/events/devexpo.jpg"
+    }
+
+  ],
+
+  "gallery": {
+    "row1": [
+      {
+        "image": "mulearn-assets/gallery/Award_cermony.jpg"
+      },
+      {
+        "image": "mulearn-assets/gallery/Award.jpg"
+      },
+      {
+        "image": "mulearn-assets/gallery/shreyas.png"
+      },
+      {
+        "image": "mulearn-assets/gallery/Group.jpg"
+      },
+      {
+        "image": "mulearn-assets/gallery/score.png"
+      },
+      {
+        "image": "mulearn-assets/gallery/score2.png"
+      },
+      {
+        "image": "mulearn-assets/gallery/permute.png"
+      }
+    ],
+    "row2": [
+      {
+        "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+      },
+      {
+        "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
+      }
+    ]
+  },
+  "statistics": {
+    "studentsCount": 297,
+    "learningCircles": 32,
+    "InterestGroups": 5,
+    "karmaEarned": 354.24,
+    "rank": 8
+  },
+
+  "team": {
+    "campusLead": {
+      "name": "Amarnath Sujith",
+      "image": "mulearn-assets/team/Amarnath.jpg"
+    },
+    "campusCoLead": {
+      "name": "Chethas L Pramod",
+      "image": "mulearn-assets/team/Chethas.png"
+    },
+    "igLead": {
+      "name": "Arjun TK",
+      "image": "mulearn-assets/team/Arjun TK.jpg"
+    },
+    "technicalLead": {
+      "name": "Richard S",
+      "image": "mulearn-assets/team/Richard.jpg"
+    },
+    "mediaLead": {
+      "name": "Bhagyasree",
+      "image": "mulearn-assets/team/Bhagyashree.jpg"
+    },
+    "marketingLead": {
+      "name": "Sooryakanth S",
+      "image": "mulearn-assets/team/Sooryakanth.jpg"
+    },
+    "operationLead": {
+      "name": "Aadil Mohamed A",
+      "image": "mulearn-assets/team/Aadil.jpg"
+    },
+    "communityLead": {
+      "name": "Aswath S A",
+      "image": "mulearn-assets/team/Ashwath.jpg"
+    },
+    "contentLead": {
+      "name": "Mihirima A R",
+      "image": "mulearn-assets/team/Mihirima.jpg"
+    }
+  },
+
+  "discordLink": "https://discord.gg/GgZCqppkJF",
+
+  "whatsAppLink": "https://chat.whatsapp.com/KpVdfID7x3H7zUttYvH4ck",
+
+  "email": "mulearnucek@gmail.com",
+
+  "linkedIn": "https://www.linkedin.com/company/mulearnucek/",
+
+  "instagram": "https://www.instagram.com/mulearn.ucek/",
+
+  "achievements": [
+    {
+      "title": "PERMUTE Emerging Campus Award",
+      "description": "University College of Engineering - Emerging Campus 2024",
+      "image": "mulearn-assets/achievements/Award.jpg"
+    },
+    {
+      "title": "Top Karma Miner Award",
+      "description": "Shreyas S - #1 Karma Miner All Over Kerala, 2024",
+      "image": "mulearn-assets/achievements/shreyas.png"
+    }
+  ]
+}
