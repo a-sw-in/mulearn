@@ -6,7 +6,7 @@ const Connect = () => {
     return (
         <div 
             id="contact" 
-            className="flex flex-col items-center w-full py-[15vh] px-[10vw] max-lg:px-[8vw] max-lg:py-0 max-md:px-[7vw] max-sm:px-[6vw] gap-6 z-100 bg-white"
+            className="flex flex-col md:mt-[5vh] md:mb-[5vh] sm:mt-[5vh] :mb-[7vh] items-center w-full py-[15vh] px-[10vw] max-lg:px-[8vw] max-lg:py-0 max-md:px-[7vw] max-sm:px-[6vw] gap-6 z-100 bg-white"
         >
             <h1 
                 className="text-[35px] max-sm:text-[30px] font-bold"
@@ -15,11 +15,11 @@ const Connect = () => {
                 Connect With Us
             </h1>
             <div 
-                className="flex w-full border-2 rounded-[10px] h-[350px] max-lg:h-[300px] max-md:h-[250px] max-sm:h-fit max-sm:flex-col max-sm:items-center"
+                className="flex w-full border-2 rounded-[10px] h-[350px] mb-[5vh] max-lg:h-[300px] max-md:h-[280px] max-sm:h-fit max-sm:flex-col max-sm:items-center items-center"
                 style={{ borderColor: '#ae59ff' }}
             >
                 <div 
-                    className="p-[7%] w-full flex flex-col justify-between max-lg:p-[6%] max-md:p-[4%] max-sm:p-[5%] max-sm:items-center max-sm:text-center gap-5"
+                    className="p-[7%] w-1/2 flex flex-col justify-center max-lg:p-[6%] max-lg:w-full max-md:p-[4%] max-sm:p-[5%] max-sm:items-center max-sm:text-center gap-5"
                 >
                     <div className="max-sm:gap-2 flex flex-col">
                         <h2 className="text-[32px] max-lg:text-[28px] max-md:text-[25px] max-sm:text-[24px]">
@@ -53,7 +53,7 @@ const Connect = () => {
                         </a>
                     </div>
                 </div>
-                <img src="/image.svg" alt="" className="h-full max-sm:h-auto max-sm:w-full" />
+                <img src="/image.svg" alt="" className="h-full w-auto object-contain max-sm:h-auto max-sm:w-full" />
             </div>
         </div>
     );
